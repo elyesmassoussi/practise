@@ -1,0 +1,40 @@
+# depslib dependency file v1.0
+1578734911 source:c:\users\masso\desktop\nouveau dossier (2)\elyes_massoussi_2a8_g2\main.cpp
+	<iostream>
+	"cour.h"
+	"ens.h"
+	"ensExpr.h"
+	"ecoleIng.h"
+
+1578731283 source:c:\users\masso\desktop\nouveau dossier (2)\elyes_massoussi_2a8_g2\src\cour.cpp
+	"cour.h"
+
+1578732304 c:\users\masso\desktop\nouveau dossier (2)\elyes_massoussi_2a8_g2\include\cour.h
+	<string>
+
+1578731278 source:c:\users\masso\desktop\nouveau dossier (2)\elyes_massoussi_2a8_g2\src\ens.cpp
+	"ens.h"
+
+1578733955 c:\users\masso\desktop\nouveau dossier (2)\elyes_massoussi_2a8_g2\include\ens.h
+	<string>
+	<vector>
+
+1578734350 source:c:\users\masso\desktop\nouveau dossier (2)\elyes_massoussi_2a8_g2\src\ensexpr.cpp
+	"ensExpr.h"
+
+1578734350 c:\users\masso\desktop\nouveau dossier (2)\elyes_massoussi_2a8_g2\include\ensexpr.h
+	"ens.h"
+	<string>
+	<vector>
+
+1578734843 source:c:\users\masso\desktop\nouveau dossier (2)\elyes_massoussi_2a8_g2\src\ecoleing.cpp
+	"ecoleIng.h"
+	<iostream>
+	<fstream>
+
+1578731923 c:\users\masso\desktop\nouveau dossier (2)\elyes_massoussi_2a8_g2\include\ecoleing.h
+	<string>
+	<vector>
+	"ens.h"
+	"cour.h"
+
