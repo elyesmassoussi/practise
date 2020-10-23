@@ -1,0 +1,40 @@
+# depslib dependency file v1.0
+1578685312 source:c:\users\masso\desktop\excamin\main.cpp
+	<iostream>
+	"epreuve.h"
+	"epreuvePratique.h"
+	"quizz.h"
+	"application.h"
+
+1578683351 source:c:\users\masso\desktop\excamin\src\epreuve.cpp
+	"epreuve.h"
+	<iostream>
+
+1578683321 c:\users\masso\desktop\excamin\include\epreuve.h
+	<string>
+
+1578684381 source:c:\users\masso\desktop\excamin\src\epreuvepratique.cpp
+	"epreuvePratique.h"
+	<iostream>
+
+1578684381 c:\users\masso\desktop\excamin\include\epreuvepratique.h
+	<epreuve.h>
+
+1578684381 source:c:\users\masso\desktop\excamin\src\quizz.cpp
+	"quizz.h"
+	<iostream>
+
+1578683739 c:\users\masso\desktop\excamin\include\quizz.h
+	<epreuve.h>
+	<string>
+
+1578683516 source:c:\users\masso\desktop\excamin\src\application.cpp
+	"application.h"
+	<iostream>
+	<fstream>
+
+1578678645 c:\users\masso\desktop\excamin\include\application.h
+	<string>
+	<vector>
+	"epreuve.h"
+
